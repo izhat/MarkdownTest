@@ -1,11 +1,6 @@
 # Etiquette for those using this repo
 
-## Branching proccess
-
-- GIt flow
-- GitHutFlow
- - Traucn braning
-     
-    - Pull requests
-     - Exepctation
-         
+## Branching practices
+1. GitFlow
+2. GitHubFlow
+3. Trunk branching
